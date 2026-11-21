@@ -6,7 +6,7 @@ Excel dashboard practice project, built while learning pivot tables, slicers and
 
 **Tools:** Excel Pivot Tables, Pivot Charts, Slicer (Occasion), Timeline (Order Date), Data Model
 
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ## Business questions
 1. Which products and categories bring the most revenue?
